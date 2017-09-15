@@ -68,12 +68,10 @@ Presentación del curso 2017/18
 
 - Crear apps.|
 - Planificar los proyectos.|
-- Realizar el diseño.|
-- Realizar prototipos/Mockups|
-- Experiencia de Usuario.|
-- Usabilidad.|
+- Realizar el diseños,prototipos (Mockups)|
+- Experiencia de Usuario (Usabilidad).|
 - “Vender” la App.|
-- Contenido web.|
+- Desarrollar Contenido web.|
 ---
 > `Todo largo camino comienza con un solo paso.`
 ---
